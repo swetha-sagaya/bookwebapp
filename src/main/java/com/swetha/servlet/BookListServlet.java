@@ -1,4 +1,4 @@
-package com.swetha.servlet;
+ package com.swetha.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
